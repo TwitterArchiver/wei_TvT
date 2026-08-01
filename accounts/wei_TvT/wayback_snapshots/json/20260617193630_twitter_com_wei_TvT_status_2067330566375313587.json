@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2067330566375313587",
+    "created_at": "2026-06-17T19:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067330566375313587"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067330566375313587",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么墙内这么多人吃感康这个傻子药……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2067330566375313587",
+        "created_at": "2026-06-17T19:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067330566375313587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067330566375313587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么墙内这么多人吃感康这个傻子药……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 精神状态不正常 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑 负能量碎碎念 互fo私\n@Tipsy_1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Tipsy_1105"
+              }
+            ]
+          }
+        },
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065111968122298368/N5gV85is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 25,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 238
+        },
+        "username": "wei_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

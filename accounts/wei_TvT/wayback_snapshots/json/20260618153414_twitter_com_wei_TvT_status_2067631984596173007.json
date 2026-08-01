@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2067376586144268689",
+    "created_at": "2026-06-18T15:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067631984596173007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695811324188758016",
+          "start": 0,
+          "username": "lumuyuan1764365"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067631984596173007",
+    "in_reply_to_user_id": "1695811324188758016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067518845997449355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lumuyuan1764365 你好天使"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2067376586144268689",
+        "created_at": "2026-06-18T15:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067631984596173007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695811324188758016",
+              "start": 0,
+              "username": "lumuyuan1764365"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067631984596173007",
+        "in_reply_to_user_id": "1695811324188758016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067518845997449355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuan1764365 你好天使"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695811324188758016",
+        "conversation_id": "2067376586144268689",
+        "created_at": "2026-06-18T08:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067518845997449355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "wei_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067518845997449355",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067376586144268689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_TvT 你好，人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 精神状态不正常 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑 负能量碎碎念 互fo私\n@Tipsy_1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Tipsy_1105"
+              }
+            ]
+          }
+        },
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065111968122298368/N5gV85is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 25,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 240
+        },
+        "username": "wei_TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T14:52:03.000Z",
+        "description": "接定制 闲聊随便",
+        "id": "1695811324188758016",
+        "location": "不回hello",
+        "name": "没有翅膀也做你的天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066384070381277184/P_D90V9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 7,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 69
+        },
+        "username": "lumuyuan1764365",
+        "verified": false
+      }
+    ]
+  }
+}

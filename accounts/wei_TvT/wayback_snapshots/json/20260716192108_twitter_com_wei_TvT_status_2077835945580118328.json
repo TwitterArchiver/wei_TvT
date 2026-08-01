@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077835922083581952"
+      ]
+    },
+    "author_id": "1954092890327855104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077835945580118328",
+    "created_at": "2026-07-16T19:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T20:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077835945580118328"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WTuevZiBJb",
+          "end": 30,
+          "expanded_url": "https://x.com/wei_TvT/status/2077835945580118328/photo/1",
+          "media_key": "3_2077835922083581952",
+          "start": 7,
+          "url": "https://t.co/WTuevZiBJb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077835945580118328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "120t加吧 https://t.co/WTuevZiBJb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077835922083581952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNX0wyVWkAAxDc7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077835922083581952"
+          ]
+        },
+        "author_id": "1954092890327855104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077835945580118328",
+        "created_at": "2026-07-16T19:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T20:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077835945580118328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTuevZiBJb",
+              "end": 30,
+              "expanded_url": "https://x.com/wei_TvT/status/2077835945580118328/photo/1",
+              "media_key": "3_2077835922083581952",
+              "start": 7,
+              "url": "https://t.co/WTuevZiBJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077835945580118328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "120t加吧 https://t.co/WTuevZiBJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑",
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075334941609508865/1OFQtC4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 250
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

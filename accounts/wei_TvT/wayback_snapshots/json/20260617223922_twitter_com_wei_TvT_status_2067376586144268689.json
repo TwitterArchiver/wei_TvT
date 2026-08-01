@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067376518955679744"
+      ]
+    },
+    "author_id": "1954092890327855104",
+    "conversation_id": "2067376586144268689",
+    "created_at": "2026-06-17T22:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067376586144268689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2IES12ocm8",
+          "end": 23,
+          "expanded_url": "https://x.com/wei_TvT/status/2067376586144268689/video/1",
+          "media_key": "13_2067376518955679744",
+          "start": 0,
+          "url": "https://t.co/2IES12ocm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067376586144268689",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2IES12ocm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5400,
+        "height": 1280,
+        "media_key": "13_2067376518955679744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067376518955679744/img/BR8Kr5H9Okle_M9A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067376518955679744/vid/avc1/320x568/E4U0BfaOTmWaa7x_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067376518955679744/vid/avc1/480x852/R__KcbOaG7hX3EMB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067376518955679744/vid/avc1/720x1280/L0wG19KQVxALkGsl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067376518955679744/pl/xfKqKN6r550AqK2B.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067376518955679744"
+          ]
+        },
+        "author_id": "1954092890327855104",
+        "conversation_id": "2067376586144268689",
+        "created_at": "2026-06-17T22:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067376586144268689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IES12ocm8",
+              "end": 23,
+              "expanded_url": "https://x.com/wei_TvT/status/2067376586144268689/video/1",
+              "media_key": "13_2067376518955679744",
+              "start": 0,
+              "url": "https://t.co/2IES12ocm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067376586144268689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2IES12ocm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 精神状态不正常 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑 负能量碎碎念 互fo私\n@Tipsy_1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Tipsy_1105"
+              }
+            ]
+          }
+        },
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065111968122298368/N5gV85is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 25,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2075334487529893920",
+    "created_at": "2026-07-12T18:21:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076371316152701334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2002657013692837889",
+          "start": 0,
+          "username": "cxchen7741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076371316152701334",
+    "in_reply_to_user_id": "2002657013692837889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075615267217093055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxchen7741 唉，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2075334487529893920",
+        "created_at": "2026-07-12T18:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076371316152701334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2002657013692837889",
+              "start": 0,
+              "username": "cxchen7741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076371316152701334",
+        "in_reply_to_user_id": "2002657013692837889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075615267217093055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxchen7741 唉，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002657013692837889",
+        "conversation_id": "2075334487529893920",
+        "created_at": "2026-07-10T16:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075615267217093055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "wei_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075615267217093055",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075334487529893920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_TvT 找乐子就好了，精神问题说白了就是想得太多。事实上每天吃了玩，玩了吃，吃了睡。没啥变化，现实生活就是这样，不管是该花刀还是发照片，都是想得太多。什么都不想，一天的日子就是早上八点起，刷牙洗脸吃个饭，打游戏，中午饭，午睡，打游戏，晚饭，打游戏，洗澡睡觉。如果愿意出去玩也可以把打游戏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑",
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075334941609508865/1OFQtC4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 24,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T08:27:18.000Z",
+        "description": "",
+        "id": "2002657013692837889",
+        "name": "abc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002657117992538112/xBx7Xchh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "cxchen7741",
+        "verified": false
+      }
+    ]
+  }
+}

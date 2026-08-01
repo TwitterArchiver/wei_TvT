@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068024830830452736"
+      ]
+    },
+    "author_id": "1954092890327855104",
+    "conversation_id": "2068024923302322236",
+    "created_at": "2026-06-19T17:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068024923302322236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sh4NoRwdkG",
+          "end": 31,
+          "expanded_url": "https://x.com/wei_TvT/status/2068024923302322236/video/1",
+          "media_key": "13_2068024830830452736",
+          "start": 8,
+          "url": "https://t.co/Sh4NoRwdkG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068024923302322236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽烟烟 睡觉觉 https://t.co/Sh4NoRwdkG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6161,
+        "height": 1280,
+        "media_key": "13_2068024830830452736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068024830830452736/img/gFkNW_2Nxmopa48j.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068024830830452736/vid/avc1/320x568/YLuKFptYJjCwqlm9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068024830830452736/vid/avc1/480x852/P1HG5H-2WWJPCcEW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068024830830452736/vid/avc1/720x1280/BcqBEHCQOzQquQuX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068024830830452736/pl/YNhSTXn5wcjxOV6K.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068024830830452736"
+          ]
+        },
+        "author_id": "1954092890327855104",
+        "conversation_id": "2068024923302322236",
+        "created_at": "2026-06-19T17:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068024923302322236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sh4NoRwdkG",
+              "end": 31,
+              "expanded_url": "https://x.com/wei_TvT/status/2068024923302322236/video/1",
+              "media_key": "13_2068024830830452736",
+              "start": 8,
+              "url": "https://t.co/Sh4NoRwdkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068024923302322236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽烟烟 睡觉觉 https://t.co/Sh4NoRwdkG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "不收门 不混圈 不聊骚 不接线下 不加任何墙内联系方式 精神状态不正常 我是女同性恋 私信只回有礼貌的人 黄蛆私信拉黑 负能量碎碎念 互fo私\n@Tipsy_1105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Tipsy_1105"
+              }
+            ]
+          }
+        },
+        "id": "1954092890327855104",
+        "location": "你的身边",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2059912128669073450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065111968122298368/N5gV85is_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 25,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false
+      }
+    ]
+  }
+}
