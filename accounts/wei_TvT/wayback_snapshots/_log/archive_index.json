@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-01T17:46:03",
+  "last_updated": "2026-09-01T17:46:18",
   "html": {
     "https://web.archive.org/web/20260617193630if_/https://twitter.com/wei_TvT/status/2067330566375313587": {
       "status": "done",
@@ -783,16 +783,18 @@
       "last_updated": "2026-08-01T21:41:13"
     },
     "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731202505_twitter_com_wei_TvT_status_2083287859096629486.json"
-      ]
+      ],
+      "last_updated": "2026-09-01T17:46:17"
     },
     "https://pbs.twimg.com/profile_images/2088317648375521280/iFsVU8O0_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260815173124_twitter_com_wei_TvT_status_2088679964770025828.json"
-      ]
+      ],
+      "last_updated": "2026-09-01T17:46:17"
     }
   },
   "media": {
@@ -1657,7 +1659,7 @@
       "last_updated": "2026-08-01T21:41:13"
     },
     "20260731202505_twitter_com_wei_TvT_status_2083287859096629486.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1666,7 +1668,7 @@
           "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-01T17:45:57"
+      "last_updated": "2026-09-01T17:46:17"
     },
     "20260731203930_twitter_com_wei_TvT_status_2083291484736950316.json": {
       "status": "done",
@@ -1899,7 +1901,7 @@
       "last_updated": "2026-09-01T17:45:15"
     },
     "20260815173124_twitter_com_wei_TvT_status_2088679964770025828.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1908,7 +1910,7 @@
           "https://pbs.twimg.com/profile_images/2088317648375521280/iFsVU8O0_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-01T17:45:57"
+      "last_updated": "2026-09-01T17:46:17"
     },
     "20260818173352_twitter_com_wei_TvT_status_2089767750159741295.json": {
       "status": "done",
