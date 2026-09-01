@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2088533684580126862",
+    "created_at": "2026-08-15T07:50:08.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T08:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088533684580126862"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088533684580126862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手上因为自残有疤找不到工作，晚上回家还要被网友嘲笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2088533684580126862",
+        "created_at": "2026-08-15T07:50:08.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088533684580126862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088533684580126862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手上因为自残有疤找不到工作，晚上回家还要被网友嘲笑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "我想说今天我也特别特别特别想你",
+        "id": "1954092890327855104",
+        "is_identity_verified": false,
+        "location": "不聊黄不发黄",
+        "most_recent_tweet_id": "2088533684580126862",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2079250143140782475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954092890327855104/1772815476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 23,
+          "like_count": 696,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 299
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
