@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2095717234903585057",
+    "created_at": "2026-09-04T03:35:00.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095717234903585057"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095717234903585057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我都想一了百了，最爱我的爷爷去世了，世界上没有爱我的了，今天晚上出门，我奶奶一直说不让我出去，说万一我和男的乱搞，说我是个女孩子好多事情的不能干，最后只能干家务，那我存在的意义是什么，家里面没有了为我说话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2095717234903585057",
+        "created_at": "2026-09-04T03:35:00.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095717234903585057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095717234903585057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都想一了百了，最爱我的爷爷去世了，世界上没有爱我的了，今天晚上出门，我奶奶一直说不让我出去，说万一我和男的乱搞，说我是个女孩子好多事情的不能干，最后只能干家务，那我存在的意义是什么，家里面没有了为我说话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "我想说今天我也特别特别特别想你",
+        "id": "1954092890327855104",
+        "is_identity_verified": false,
+        "location": "不聊黄不发黄",
+        "most_recent_tweet_id": "2095717234903585057",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2079250143140782475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954092890327855104/1772815476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 22,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

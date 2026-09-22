@@ -1,0 +1,138 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2095718305717731532",
+    "created_at": "2026-09-04T03:39:15.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095718305717731532"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095718305717731532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我心理问题已经好久没有治疗，家里面都觉得无所谓，觉得花没有用的钱，只要是不是死，就是健康的正常人，我想过自己去工作，自己生活，看医生，可是工作会要一个心脏有问题贫血随时会倒下的人，我也不想一直堕落下去，我不知道我存在的意义，每天呼吸是为了什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2095718305717731532",
+        "created_at": "2026-09-04T03:39:15.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095718305717731532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095718305717731532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我心理问题已经好久没有治疗，家里面都觉得无所谓，觉得花没有用的钱，只要是不是死，就是健康的正常人，我想过自己去工作，自己生活，看医生，可是工作会要一个心脏有问题贫血随时会倒下的人，我也不想一直堕落下去，我不知道我存在的意义，每天呼吸是为了什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "我想说今天我也特别特别特别想你",
+        "id": "1954092890327855104",
+        "is_identity_verified": false,
+        "location": "不聊黄不发黄",
+        "most_recent_tweet_id": "2095718305717731532",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2079250143140782475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954092890327855104/1772815476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 22,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
