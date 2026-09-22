@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-22T18:09:47",
+  "last_updated": "2026-09-22T18:09:59",
   "html": {
     "https://web.archive.org/web/20260617193630if_/https://twitter.com/wei_TvT/status/2067330566375313587": {
       "status": "done",
@@ -1373,8 +1373,8 @@
           "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-22T18:09:31",
-      "miss_count": 5
+      "last_updated": "2026-09-22T18:09:59",
+      "miss_count": 6
     },
     "20260720081119_twitter_com_wei_TvT_status_2079116932561662168.json": {
       "status": "failed",
@@ -1388,8 +1388,8 @@
           "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-22T18:09:29",
-      "miss_count": 5
+      "last_updated": "2026-09-22T18:09:59",
+      "miss_count": 6
     },
     "20260720081627_twitter_com_wei_TvT_status_2079118225359409157.json": {
       "status": "done",
