@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1954092890327855104",
+    "conversation_id": "2107205477671248113",
+    "created_at": "2026-10-06T13:49:27.000Z",
+    "display_text_range": [
+      11,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T14:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107468278981439592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1673716466645086209",
+          "start": 0,
+          "username": "wink77711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107468278981439592",
+    "in_reply_to_user_id": "1673716466645086209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107216635400757343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wink77711 我喜欢你的小猫咪好可爱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954092890327855104",
+        "conversation_id": "2107205477671248113",
+        "created_at": "2026-10-06T13:49:27.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T14:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107468278981439592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1673716466645086209",
+              "start": 0,
+              "username": "wink77711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107468278981439592",
+        "in_reply_to_user_id": "1673716466645086209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107216635400757343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wink77711 我喜欢你的小猫咪好可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673716466645086209",
+        "conversation_id": "2107205477671248113",
+        "created_at": "2026-10-05T21:09:30.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T22:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107216635400757343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1954092890327855104",
+              "start": 0,
+              "username": "wei_TvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107216635400757343",
+        "in_reply_to_user_id": "1954092890327855104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107205477671248113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_TvT 嗨丝？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T08:10:49.000Z",
+        "description": "我想说今天我也特别特别特别想你/互fo同类私信",
+        "id": "1954092890327855104",
+        "is_identity_verified": false,
+        "location": "不聊黄不发黄",
+        "most_recent_tweet_id": "2107468278981439592",
+        "name": "全世界最脆弱的账号",
+        "pinned_tweet_id": "2079250143140782475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1954092890327855104/1772815476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077837381814624256/8zMaDgto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 25,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "wei_TvT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-27T15:35:16.000Z",
+        "description": "",
+        "id": "1673716466645086209",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107385416458633312",
+        "name": "w",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064676365430063104/FeHEtRKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 238,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "wink77711",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
